@@ -1,0 +1,997 @@
+<menu>
+<day name="monday">
+<meal name="LUNCH">
+<counter>
+<dish>
+<name>Simple Baked Chicken</name>
+</dish>
+</counter>
+<counter name="Deli">
+<dish>
+<name>Made to Order Deli Core</name>
+</dish>
+<dish>
+<name>Ham & Provolone Loafer Sandwich</name>
+</dish>
+</counter>
+<counter name="Entrée">
+<dish>
+<name>Miscellaneous/Peripherals</name>
+</dish>
+<dish>
+<name>Fresh Broccoli</name>
+</dish>
+<dish>
+<name>Confetti Rice</name>
+</dish>
+<dish>
+<name>Napa Valley Steamed Vegetables</name>
+</dish>
+<dish>
+<name>Napa Valley Steamed Vegetables</name>
+</dish>
+<dish>
+<name>Italian Sausage Halves, Onion & Peppers</name>
+</dish>
+<dish>
+<name>Beef Pot Pie</name>
+</dish>
+<dish>
+<name>Spaghetti Sauce with Tomato Bits</name>
+</dish>
+<dish>
+<name>Alfredo Sauce</name>
+</dish>
+<dish>
+<name>Herb Seasoned Breadsticks</name>
+</dish>
+<dish>
+<name>Rotini</name>
+</dish>
+<dish>
+<name>Spanish Style Garbanzo Beans</name>
+</dish>
+</counter>
+<counter name="Exhibition">
+<dish>
+<name>White Seasoned Rice</name>
+</dish>
+<dish>
+<name>Chicken Pad Thai</name>
+</dish>
+</counter>
+<counter name="Grill">
+<dish>
+<name>Hamburger</name>
+</dish>
+<dish>
+<name>Classic Cheeseburger on a Toasted Bun</name>
+</dish>
+<dish>
+<name>French Fries</name>
+</dish>
+<dish>
+<name>Grilled Chicken Sandwich</name>
+</dish>
+<dish>
+<name>Chicken Patty Sandwich</name>
+</dish>
+<dish>
+<name>Shrimp Po'Boy Sandwich</name>
+</dish>
+</counter>
+<counter name="Salad">
+<dish>
+<name>Balsamic Pasta Salad</name>
+</dish>
+</counter>
+<counter name="Soup">
+<dish>
+<name>Tomato Soup Florentine</name>
+</dish>
+<dish>
+<name>Chicken Noodle Soup with Fresh Dill</name>
+</dish>
+</counter>
+<counter name="Vegetable">
+<dish>
+<name>Hummus</name>
+</dish>
+<dish>
+<name>Pita Chips</name>
+</dish>
+</counter>
+</meal>
+<meal name="DINNER">
+<counter name="Deli">
+<dish>
+<name>Made to Order Deli Core</name>
+</dish>
+<dish>
+<name>Ham & Provolone Loafer Sandwich</name>
+</dish>
+</counter>
+<counter name="Entrée">
+<dish>
+<name>Miscellaneous/Peripherals</name>
+</dish>
+<dish>
+<name>Chicken Enchiladas</name>
+</dish>
+<dish>
+<name>Spaghetti Sauce with Tomato Bits</name>
+</dish>
+<dish>
+<name>Alfredo Sauce</name>
+</dish>
+<dish>
+<name>Herb Seasoned Breadsticks</name>
+</dish>
+<dish>
+<name>Sofrito Black Beans</name>
+</dish>
+<dish>
+<name>Oven Roast Rosemary Red Potatoes</name>
+</dish>
+<dish>
+<name>Oven Roast Rosemary Red Potatoes</name>
+</dish>
+<dish>
+<name>Aztec Corn</name>
+</dish>
+<dish>
+<name>Aztec Corn</name>
+</dish>
+<dish>
+<name>Yankee Pot Roast</name>
+</dish>
+<dish>
+<name>Yankee Pot Roast</name>
+</dish>
+</counter>
+<counter name="Exhibition">
+<dish>
+<name>Pumpkin Whole Wheat Pancakes</name>
+</dish>
+</counter>
+<counter name="Grill">
+<dish>
+<name>Hamburger</name>
+</dish>
+<dish>
+<name>Classic Cheeseburger on a Toasted Bun</name>
+</dish>
+<dish>
+<name>French Fries</name>
+</dish>
+<dish>
+<name>Grilled Chicken Sandwich</name>
+</dish>
+<dish>
+<name>Chicken Patty Sandwich</name>
+</dish>
+<dish>
+<name>Shrimp Po'Boy Sandwich</name>
+</dish>
+</counter>
+<counter name="Salad">
+<dish>
+<name>Balsamic Pasta Salad</name>
+</dish>
+</counter>
+<counter name="Soup">
+<dish>
+<name>Tomato Soup Florentine</name>
+</dish>
+<dish>
+<name>Chicken Noodle Soup with Fresh Dill</name>
+</dish>
+</counter>
+<counter name="Vegetable">
+<dish>
+<name>Hummus</name>
+</dish>
+<dish>
+<name>Pita Chips</name>
+</dish>
+</counter>
+</meal>
+</day>
+<day name="tuesday">
+<meal name="LUNCH">
+<counter name="Deli">
+<dish>
+<name>Made to Order Deli Core</name>
+</dish>
+<dish>
+<name>Tuscan Turkey Biggie Sandwich</name>
+</dish>
+</counter>
+<counter name="Entrée">
+<dish>
+<name>Miscellaneous/Peripherals</name>
+</dish>
+<dish>
+<name>Buttered Egg Noodles</name>
+</dish>
+<dish>
+<name>Roasted Butternut Squash with Thyme</name>
+</dish>
+<dish>
+<name>Jerk Chicken Thighs</name>
+</dish>
+<dish>
+<name>Breads and Spreads Bar</name>
+</dish>
+<dish>
+<name>Cheese Tortellini w/Vegetables</name>
+</dish>
+<dish>
+<name>Tofu Fried Rice</name>
+</dish>
+<dish>
+<name>Herbed Grilled Chicken Thigh</name>
+</dish>
+<dish>
+<name>Peas & Carrots</name>
+</dish>
+<dish>
+<name>Peas & Carrots</name>
+</dish>
+</counter>
+<counter name="Exhibition">
+<dish>
+<name>Tequila Shrimp</name>
+</dish>
+<dish>
+<name>Mexican Rice</name>
+</dish>
+</counter>
+<counter name="Grill">
+<dish>
+<name>Hamburger</name>
+</dish>
+<dish>
+<name>Classic Cheeseburger on a Toasted Bun</name>
+</dish>
+<dish>
+<name>French Fries</name>
+</dish>
+<dish>
+<name>Chicken Patty Sandwich</name>
+</dish>
+<dish>
+<name>Grilled Chicken Sandwich</name>
+</dish>
+<dish>
+<name>Beef Philly-Style Cheese Steak</name>
+</dish>
+</counter>
+<counter name="Soup">
+<dish>
+<name>Bacon Corn Chowder</name>
+</dish>
+<dish>
+<name>American Bounty Vegetable Soup</name>
+</dish>
+</counter>
+<counter name="Vegetable">
+<dish>
+<name>Hummus</name>
+</dish>
+<dish>
+<name>Pita Chips</name>
+</dish>
+<dish>
+<name>Steamed Brown Rice</name>
+</dish>
+</counter>
+</meal>
+<meal name="DINNER">
+<counter name="Deli">
+<dish>
+<name>Made to Order Deli Core</name>
+</dish>
+<dish>
+<name>Tuscan Turkey Biggie Sandwich</name>
+</dish>
+</counter>
+<counter name="Entrée">
+<dish>
+<name>Miscellaneous/Peripherals</name>
+</dish>
+<dish>
+<name>Steamed Fresh Green Beans</name>
+</dish>
+<dish>
+<name>Baked Potatoes</name>
+</dish>
+<dish>
+<name>Chicken Cacciatora</name>
+</dish>
+<dish>
+<name>Breads and Spreads Bar</name>
+</dish>
+<dish>
+<name>Eggplant Parmesan</name>
+</dish>
+<dish>
+<name>Pasta with Olives and Tomatoes</name>
+</dish>
+<dish>
+<name>California Mixed Vegetables</name>
+</dish>
+<dish>
+<name>California Mixed Vegetables</name>
+</dish>
+<dish>
+<name>Baked Potato Small</name>
+</dish>
+</counter>
+<counter name="Exhibition">
+<dish>
+<name>Kansas City BBQ Pork Loin</name>
+</dish>
+</counter>
+<counter name="Grill">
+<dish>
+<name>Hamburger</name>
+</dish>
+<dish>
+<name>Classic Cheeseburger on a Toasted Bun</name>
+</dish>
+<dish>
+<name>French Fries</name>
+</dish>
+<dish>
+<name>Chicken Patty Sandwich</name>
+</dish>
+<dish>
+<name>Grilled Chicken Sandwich</name>
+</dish>
+<dish>
+<name>Beef Philly-Style Cheese Steak</name>
+</dish>
+</counter>
+<counter name="Sodexo">
+<dish>
+<name>Roasted Pork Loin</name>
+</dish>
+</counter>
+<counter name="Salad">
+<dish>
+<name>Honey Dijon Potato Salad</name>
+</dish>
+</counter>
+<counter name="Soup">
+<dish>
+<name>Bacon Corn Chowder</name>
+</dish>
+<dish>
+<name>American Bounty Vegetable Soup</name>
+</dish>
+</counter>
+<counter name="Vegetable">
+<dish>
+<name>Hummus</name>
+</dish>
+<dish>
+<name>Pita Chips</name>
+</dish>
+</counter>
+</meal>
+</day>
+<day name="wednesday">
+<meal name="LUNCH">
+<counter>
+<dish>
+<name>Gluten Free Classic Hamburger Bun</name>
+</dish>
+</counter>
+<counter name="Deli">
+<dish>
+<name>Made to Order Deli Core</name>
+</dish>
+<dish>
+<name>Twisted Beef & Horseradish</name>
+</dish>
+</counter>
+<counter name="Entrée">
+<dish>
+<name>Miscellaneous/Peripherals</name>
+</dish>
+<dish>
+<name>Leaf Spinach</name>
+</dish>
+<dish>
+<name>French Fried Tater Tots</name>
+</dish>
+<dish>
+<name>Spaghetti Sauce with Tomato Bits</name>
+</dish>
+<dish>
+<name>Herb Seasoned Breadsticks</name>
+</dish>
+<dish>
+<name>Simple Bolognese</name>
+</dish>
+<dish>
+<name>Spinach, Red Pepper & Feta Quiche</name>
+</dish>
+<dish>
+<name>Sweet Potato and Black Bean Chili</name>
+</dish>
+<dish>
+<name>Capri Mixed Vegetables, Frozen</name>
+</dish>
+<dish>
+<name>Capri Mixed Vegetables, Frozen</name>
+</dish>
+</counter>
+<counter name="Exhibition">
+<dish>
+<name>Greek Chicken Gyro</name>
+</dish>
+</counter>
+<counter name="Grill">
+<dish>
+<name>Classic Cheeseburger on a Toasted Bun</name>
+</dish>
+<dish>
+<name>French Fries</name>
+</dish>
+<dish>
+<name>Chicken Patty Sandwich</name>
+</dish>
+<dish>
+<name>Grilled Chicken Sandwich</name>
+</dish>
+<dish>
+<name>Maple Glazed Turkey Burger</name>
+</dish>
+</counter>
+<counter name="Salad">
+<dish>
+<name>Bow Tie Spinach Carbonara Salad</name>
+</dish>
+</counter>
+<counter name="Soup">
+<dish>
+<name>Chicken Orzo Soup</name>
+</dish>
+<dish>
+<name>Roasted Tomato Tortilla Soup</name>
+</dish>
+</counter>
+<counter name="Vegetable">
+<dish>
+<name>Hummus</name>
+</dish>
+<dish>
+<name>Pita Chips</name>
+</dish>
+</counter>
+</meal>
+<meal name="DINNER">
+<counter name="Deli">
+<dish>
+<name>Made to Order Deli Core</name>
+</dish>
+<dish>
+<name>Twisted Beef & Horseradish</name>
+</dish>
+</counter>
+<counter name="Entrée">
+<dish>
+<name>Miscellaneous/Peripherals</name>
+</dish>
+<dish>
+<name>Ratatouille</name>
+</dish>
+<dish>
+<name>Country Mashed Potatoes</name>
+</dish>
+<dish>
+<name>Tilapia Provencal</name>
+</dish>
+<dish>
+<name>Spaghetti Sauce with Tomato Bits</name>
+</dish>
+<dish>
+<name>Herb Seasoned Breadsticks</name>
+</dish>
+<dish>
+<name>Simple Bolognese</name>
+</dish>
+<dish>
+<name>General Tso's Tofu</name>
+</dish>
+<dish>
+<name>Polenta with Caramelized Onions</name>
+</dish>
+<dish>
+<name>Red Potatoes</name>
+</dish>
+<dish>
+<name>Steamed Corn</name>
+</dish>
+<dish>
+<name>Steamed Corn</name>
+</dish>
+</counter>
+<counter name="Exhibition">
+<dish>
+<name>Old-Fashioned Sage Stuffing</name>
+</dish>
+<dish>
+<name>Herb Roasted Turkey Breast</name>
+</dish>
+<dish>
+<name>Herb Roasted Turkey Breast</name>
+</dish>
+</counter>
+<counter name="Grill">
+<dish>
+<name>Classic Cheeseburger on a Toasted Bun</name>
+</dish>
+<dish>
+<name>French Fries</name>
+</dish>
+<dish>
+<name>Chicken Patty Sandwich</name>
+</dish>
+<dish>
+<name>Grilled Chicken Sandwich</name>
+</dish>
+<dish>
+<name>Maple Glazed Turkey Burger</name>
+</dish>
+</counter>
+<counter name="Salad">
+<dish>
+<name>Bow Tie Spinach Carbonara Salad</name>
+</dish>
+</counter>
+<counter name="Soup">
+<dish>
+<name>Chicken Orzo Soup</name>
+</dish>
+<dish>
+<name>Roasted Tomato Tortilla Soup</name>
+</dish>
+</counter>
+<counter name="Vegetable">
+<dish>
+<name>Pita Chips</name>
+</dish>
+<dish>
+<name>Hummus</name>
+</dish>
+</counter>
+</meal>
+</day>
+<day name="thursday">
+<meal name="LUNCH">
+<counter name="Deli">
+<dish>
+<name>Made to Order Deli Core</name>
+</dish>
+<dish>
+<name>Double Decker Antipasto Biggie Sandwich</name>
+</dish>
+</counter>
+<counter name="Entrée">
+<dish>
+<name>Miscellaneous/Peripherals</name>
+</dish>
+<dish>
+<name>Baked Sweet Potato</name>
+</dish>
+<dish>
+<name>Roasted Carrots</name>
+</dish>
+<dish>
+<name>Hot Italian Meatball Sandwich</name>
+</dish>
+<dish>
+<name>Chocolate Fondue</name>
+</dish>
+<dish>
+<name>Bow Ties with Tomatoes, Spinach & Feta</name>
+</dish>
+<dish>
+<name>Butternut Squash & Lentils</name>
+</dish>
+<dish>
+<name>Chicken Breast with Rosemary & Garlic</name>
+</dish>
+<dish>
+<name>Brussels Sprouts</name>
+</dish>
+<dish>
+<name>Brussels Sprouts</name>
+</dish>
+</counter>
+<counter name="Exhibition">
+<dish>
+<name>Szechuan Beef and Noodles Stir Fry</name>
+</dish>
+</counter>
+<counter name="Grill">
+<dish>
+<name>Hamburger</name>
+</dish>
+<dish>
+<name>Classic Cheeseburger on a Toasted Bun</name>
+</dish>
+<dish>
+<name>French Fries</name>
+</dish>
+<dish>
+<name>Chicken Patty Sandwich</name>
+</dish>
+<dish>
+<name>Grilled Chicken Sandwich</name>
+</dish>
+<dish>
+<name>Bacon Cheeseburger</name>
+</dish>
+</counter>
+<counter name="Potato">
+<dish>
+<name>Simple Baked Sweet Potato</name>
+</dish>
+</counter>
+<counter name="Salad">
+<dish>
+<name>Country-Style Potato Salad</name>
+</dish>
+</counter>
+<counter name="Soup">
+<dish>
+<name>Roast Turkey and Rice Soup</name>
+</dish>
+<dish>
+<name>Creamy Broccoli Cheddar Soup</name>
+</dish>
+</counter>
+<counter name="Vegetable">
+<dish>
+<name>Hummus</name>
+</dish>
+<dish>
+<name>Lemony Chickpea Salad</name>
+</dish>
+<dish>
+<name>Corn, Tomato, & Basil Salad</name>
+</dish>
+<dish>
+<name>Pita Chips</name>
+</dish>
+</counter>
+</meal>
+<meal name="DINNER">
+<counter>
+<dish>
+<name>Simple Baked Chicken</name>
+</dish>
+</counter>
+<counter name="Deli">
+<dish>
+<name>Made to Order Deli Core</name>
+</dish>
+<dish>
+<name>Double Decker Antipasto Biggie Sandwich</name>
+</dish>
+</counter>
+<counter name="Entrée">
+<dish>
+<name>Miscellaneous/Peripherals</name>
+</dish>
+<dish>
+<name>Fresh Broccoli</name>
+</dish>
+<dish>
+<name>Oven Roast Garlic Red Potatoes</name>
+</dish>
+<dish>
+<name>Cranberry Harvest Chicken Breast</name>
+</dish>
+<dish>
+<name>Beef Shepherds Pie with Parsnip Potatoes</name>
+</dish>
+<dish>
+<name>Chocolate Fondue</name>
+</dish>
+<dish>
+<name>Vegetable Egg Rolls</name>
+</dish>
+<dish>
+<name>Turkish Bulgur Pilaf with Garbanzo Beans</name>
+</dish>
+<dish>
+<name>Peas & Carrots</name>
+</dish>
+<dish>
+<name>Peas & Carrots</name>
+</dish>
+<dish>
+<name>Oven Roast Garlic Red Potatoes</name>
+</dish>
+</counter>
+<counter name="Exhibition">
+<dish>
+<name>Noodle Bowl Theme Station</name>
+</dish>
+</counter>
+<counter name="Grill">
+<dish>
+<name>Hamburger</name>
+</dish>
+<dish>
+<name>Classic Cheeseburger on a Toasted Bun</name>
+</dish>
+<dish>
+<name>French Fries</name>
+</dish>
+<dish>
+<name>Chicken Patty Sandwich</name>
+</dish>
+<dish>
+<name>Grilled Chicken Sandwich</name>
+</dish>
+<dish>
+<name>Bacon Cheeseburger</name>
+</dish>
+</counter>
+<counter name="Salad">
+<dish>
+<name>Country-Style Potato Salad</name>
+</dish>
+</counter>
+<counter name="Soup">
+<dish>
+<name>Roast Turkey and Rice Soup</name>
+</dish>
+<dish>
+<name>Creamy Broccoli Cheddar Soup</name>
+</dish>
+</counter>
+<counter name="Vegetable">
+<dish>
+<name>Hummus</name>
+</dish>
+<dish>
+<name>Lemony Chickpea Salad</name>
+</dish>
+<dish>
+<name>Pita Chips</name>
+</dish>
+</counter>
+</meal>
+</day>
+<day name="friday">
+<meal name="LUNCH">
+<counter name="Deli">
+<dish>
+<name>Made to Order Deli Core</name>
+</dish>
+<dish>
+<name>House Turkey Cobb Biggie Sandwich</name>
+</dish>
+</counter>
+<counter name="Entrée">
+<dish>
+<name>Traditional Rotisserie Chicken</name>
+</dish>
+<dish>
+<name>Mashed Red Potatoes</name>
+</dish>
+<dish>
+<name>Roasted Corn On The Cob</name>
+</dish>
+<dish>
+<name>Napa Valley Steamed Vegetables</name>
+</dish>
+<dish>
+<name>Spaghetti Sauce with Tomato Bits</name>
+</dish>
+<dish>
+<name>Alfredo Sauce</name>
+</dish>
+<dish>
+<name>Herb Seasoned Breadsticks</name>
+</dish>
+<dish>
+<name>Vegetarian Paella</name>
+</dish>
+<dish>
+<name>Spicy Eggplant with Garbanzo Beans</name>
+</dish>
+<dish>
+<name>Miscellaneous/Peripherals</name>
+</dish>
+<dish>
+<name>Traditional Rotisserie Chicken</name>
+</dish>
+<dish>
+<name>Red Potatoes</name>
+</dish>
+</counter>
+<counter name="Exhibition">
+<dish>
+<name>Omelet Bar</name>
+</dish>
+</counter>
+<counter name="Grill">
+<dish>
+<name>Hamburger</name>
+</dish>
+<dish>
+<name>Classic Cheeseburger on a Toasted Bun</name>
+</dish>
+<dish>
+<name>French Fries</name>
+</dish>
+<dish>
+<name>Chicken Patty Sandwich</name>
+</dish>
+<dish>
+<name>Grilled Chicken Sandwich</name>
+</dish>
+<dish>
+<name>Bacon Cheeseburger</name>
+</dish>
+</counter>
+<counter name="Salad">
+<dish>
+<name>Carolina Chopped Slaw</name>
+</dish>
+</counter>
+<counter name="Soup">
+<dish>
+<name>Chicken and Corn Chowder</name>
+</dish>
+<dish>
+<name>Lentil Soup with Cilantro & Orzo</name>
+</dish>
+</counter>
+<counter name="Vegetable">
+<dish>
+<name>Hummus</name>
+</dish>
+<dish>
+<name>Pita Chips</name>
+</dish>
+<dish>
+<name>Green Onion & Tomato Hummus</name>
+</dish>
+<dish>
+<name>White Bean & Caramelized Onion Salad</name>
+</dish>
+<dish>
+<name>Roasted Corn On The Cob</name>
+</dish>
+</counter>
+</meal>
+<meal name="DINNER">
+<counter name="Deli">
+<dish>
+<name>Made to Order Deli Core</name>
+</dish>
+<dish>
+<name>House Turkey Cobb Biggie Sandwich</name>
+</dish>
+</counter>
+<counter name="Entrée">
+<dish>
+<name>Coconut Jasmine Rice</name>
+</dish>
+<dish>
+<name>Steamed Fresh Baby Carrots</name>
+</dish>
+<dish>
+<name>Leaf Spinach</name>
+</dish>
+<dish>
+<name>Sweet & Sour Pork Plate</name>
+</dish>
+<dish>
+<name>Asian Pepper Steak</name>
+</dish>
+<dish>
+<name>Spaghetti Sauce with Tomato Bits</name>
+</dish>
+<dish>
+<name>Alfredo Sauce</name>
+</dish>
+<dish>
+<name>Herb Seasoned Breadsticks</name>
+</dish>
+<dish>
+<name>Korean Stir-Fried Vegetables with Tofu</name>
+</dish>
+<dish>
+<name>Miscellaneous/Peripherals</name>
+</dish>
+<dish>
+<name>Blackened Flank Steak</name>
+</dish>
+</counter>
+<counter name="Exhibition">
+<dish>
+<name>Johnny Appleseed Whole Wheat Pancakes</name>
+</dish>
+</counter>
+<counter name="Grill">
+<dish>
+<name>Hamburger</name>
+</dish>
+<dish>
+<name>Classic Cheeseburger on a Toasted Bun</name>
+</dish>
+<dish>
+<name>French Fries</name>
+</dish>
+<dish>
+<name>Chicken Patty Sandwich</name>
+</dish>
+<dish>
+<name>Grilled Chicken Sandwich</name>
+</dish>
+<dish>
+<name>Bacon Cheeseburger</name>
+</dish>
+</counter>
+<counter name="Salad">
+<dish>
+<name>Carolina Chopped Slaw</name>
+</dish>
+</counter>
+<counter name="Soup">
+<dish>
+<name>Chicken and Corn Chowder</name>
+</dish>
+<dish>
+<name>Lentil Soup with Cilantro & Orzo</name>
+</dish>
+</counter>
+<counter name="Vegetable">
+<dish>
+<name>Pita Chips</name>
+</dish>
+<dish>
+<name>Hummus</name>
+</dish>
+<dish>
+<name>Green Onion & Tomato Hummus</name>
+</dish>
+<dish>
+<name>Couscous Pepper, Olive & Pine Nut Salad</name>
+</dish>
+<dish>
+<name>White Bean & Caramelized Onion Salad</name>
+</dish>
+<dish>
+<name>Curried Vegetable Salad</name>
+</dish>
+<dish>
+<name>Tropical Salsa</name>
+</dish>
+<dish>
+<name>Pico de Gallo</name>
+</dish>
+<dish>
+<name>Flat Leaf Spinach</name>
+</dish>
+</counter>
+<counter name="Vegetarian/Vegan">
+<dish>
+<name>Jasmine Steamed Rice</name>
+</dish>
+</counter>
+</meal>
+</day>
+<day name="saturday"></day>
+<day name="sunday"></day>
+</menu>
